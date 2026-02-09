@@ -9,7 +9,7 @@
 - **Python (1,5 года):** Pandas, NumPy для анализа данных; Matplotlib, Seaborn для визуализации
 - **BI-инструменты:** DataLens
 - **Методологии:** RFM-анализ, когортный анализ, ABC/XYZ-анализ, юнит-экономика, математическая статистика
-- **Инструменты:** Git, Jupyter Notebook, pgAdmin, Apache Airflow (ознакомительно)
+- **Инструменты:** Git, Jupyter Notebook, pgAdmin, Apache Airflow (ознакомительно), PyCharm
 
 ---
 
